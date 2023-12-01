@@ -17,9 +17,10 @@ https://peaceful-savannah-20581-b7556140e148.herokuapp.com/
 
 🌐 E-commerce Platform:
 Main: www.zeepty.com
+
 Supplier Portal: www.supplier.zeepty.com
+
 Creator Portal: www.creator.zeepty.com
-(Complete backend and frontend, UI improvements in progress)
 
 📱 Behere Flutter App:
 Smart Attendance Tracking
