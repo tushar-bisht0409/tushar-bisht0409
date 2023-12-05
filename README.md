@@ -15,7 +15,7 @@ https://bloxians.vercel.app/
 🔍 Quick Web Research (2-3 minutes):
 https://peaceful-savannah-20581-b7556140e148.herokuapp.com/
 
-🌐 E-commerce Platform:<br />Main: www.zeepty.com<br />Supplier Portal: www.supplier.zeepty.com<br />Creator Portal: www.creator.zeepty.com
+🌐 E-commerce Platform:<br />Main: www.zeepty.com<br />Supplier Portal: https://supplier.zeepty.com<br />Creator Portal: https://creator.zeepty.com
 
 📱 Behere Flutter App:
 Smart Attendance Tracking
